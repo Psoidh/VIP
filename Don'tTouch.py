@@ -38,6 +38,7 @@ print(f'''{B}{E}=============================={B}
 |{F}[+] TeleGram  : {B} maho_s9    |
 |{F}[+] Instagram  : {B}ahmedalharrani |
 |{F}[+] Tool  : {B}VIP INSTAGRAM |
+|{F}[+] Server3  : {B}VIP 3 |
 {E}==============================''')
 
 sid = input('sisson ID : -')
